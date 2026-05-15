@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login — NEMESIS | Kabupaten Bandung</title>
+    <title>Login — NEMESIS | Kota Tasikmalaya</title>
     <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
     <style>
         :root {
@@ -56,9 +56,8 @@
 <body>
 
 <div class="left-panel">
-    <div class="op-tag">// OPERATION DIPONEGORO</div>
     <div class="brand-logo">NEM<span class="hl">E</span><span class="dm">SIS</span></div>
-    <p class="brand-tagline">Sistem Pengawasan Anggaran & Investigasi Pengadaan Publik — Kabupaten Bandung</p>
+    <p class="brand-tagline">Sistem Pengawasan Anggaran & Investigasi Pengadaan Publik — Kota Tasikmalaya</p>
     <div class="stat-grid">
         <div class="stat-item"><div class="stat-value red">4.4 GB</div><div class="stat-label">Dataset SIRUP</div></div>
         <div class="stat-item"><div class="stat-value amber">2,847</div><div class="stat-label">Paket Teranalisis</div></div>
@@ -67,7 +66,7 @@
     </div>
     <div class="region-badge">
         <i class="fas fa-map-pin"></i>
-        <span>Pemerintah Kabupaten Bandung — Jawa Barat</span>
+        <span>Pemerintah Kota Tasikmalaya — Jawa Barat</span>
     </div>
 </div>
 

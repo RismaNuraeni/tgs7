@@ -59,7 +59,7 @@
     <div class="bupati-banner-icon"><i class="fas fa-shield-halved"></i></div>
     <div>
         <div class="level">// LEVEL AKSES: BUPATI</div>
-        <div class="msg">Selamat datang, <?= esc(session()->get('nama')) ?>. Anda memantau ringkasan anggaran prioritas Kabupaten Bandung.</div>
+        <div class="msg">Selamat datang, <?= esc(session()->get('nama')) ?>. Anda memantau ringkasan anggaran prioritas Kota Tasikmalaya.</div>
     </div>
 </div>
 <?php endif; ?>
